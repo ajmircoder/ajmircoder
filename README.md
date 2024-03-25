@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/ajmircoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajmircoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajmircoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajmircoder" height="30" width="40" /></a>
-<a href="https://leetcode.com/ajmirk01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajmirk01" height="30" width="40" /></a>
+<a href="https://leetcode.com/ajmircoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajmirk01" height="30" width="40" /></a>
 <!--   <a href="https://www.youtube.com/c/codesoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uboxtech" height="30" width="40" /></a> -->
 </p>
 
